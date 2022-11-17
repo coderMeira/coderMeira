@@ -1,5 +1,5 @@
 ### Welcome to my crib 👋
-![fmeira's 42 stats](https://badge42.vercel.app/api/v2/claiezphk00400fmh284yvtph/stats?cursusId=21&coalitionId=112)(https://github.com/JaeSeoKim/badge42)
+![fmeira's 42 stats](https://badge42.vercel.app/api/v2/claiezphk00400fmh284yvtph/stats?cursusId=21&coalitionId=112)
 <br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11131131337)
 <!--
